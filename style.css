@@ -7,7 +7,7 @@
 }
 body{
     height:100vh;
-    background:linear-gradient(135deg,#8052ec,#d161ff);
+    background:linear-gradient(135deg,#781367,#61edff);
 }
 html
 {
@@ -36,7 +36,7 @@ font-size:16px;
     border:none;
     border-radius: 8px;
     font-size:12vmin;
-    color:#d161ff;
+    color:purple;
     box-shadow: 0 0 15px rgba(0,0,0,0.1);
 }
 #restart
@@ -54,7 +54,7 @@ font-size:16px;
 }
 .popup
 {
-    background:linear-gradient(135deg,#8052ec,#d161ff);
+    background:linear-gradient(135deg,#ec52c0,#61e2ff);
     height:100%;
     width:100%;
     position:absolute;
